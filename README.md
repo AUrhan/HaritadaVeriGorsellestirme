@@ -1,6 +1,6 @@
 # HaritadaVeriGorsellestirme KÜTAHYA HARİTASI 
-Folium ve Geopandas Kütüphaneleriyle Ayrı Olarak, GeoJson dosyası kullanılarak oluşturulmuştur.
-Etkileşimli harita Folium ile Veri Görselleştirme ise Geopandas ile yapılmıştır.
+Folium ve Geopandas Kütüphaneleriyle 3 Farklı Şekilde, GeoJson dosyası kullanılarak oluşturulmuştur.
+Etkileşimli harita Folium ile Haritada Veri Görselleştirme ise Geopandas ile yapılmıştır. Matplotlib ile 3B Grafik Oluşturulmuştur.
 
 Ayrıca;
 Veriler klasöründe bulunan GeoJson dosyasından verileri ve harita sınırlarını alarak;
