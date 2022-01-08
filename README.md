@@ -8,5 +8,5 @@ Veriler klasöründe bulunan GeoJson dosyasından verileri ve harita sınırlar�
       Buradan hem harita ve içindeki veriler kullanıp denenebilir hem de sitenize entegre edebilirsiniz.
 https://public.flourish.studio/visualisation/8301852/
 
-Kodların Çalışmaması Veri Dosyalarının Saklandığı GitHUB repository'sinin silinesinden kaynaklı olabilir. 
-Bu durumda VeriGörselleştirme repository'sinin İçerisindeki Veri Klasöründeki Verilerin Linkleri ile değiştiriniz. 
+Kodların Çalışmaması Veri Dosyalarının Saklandığı GitHUB repository'sinin silinmesinden kaynaklı olabilir. 
+Bu durumda kod içindeki bağlantıları VeriGörselleştirme repository'sinin İçerisindeki Veri Klasöründeki Verilerin Linkleri ile değiştiriniz. 
